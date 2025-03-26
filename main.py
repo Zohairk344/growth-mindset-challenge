@@ -288,4 +288,3 @@ if uploaded_files:
 
 # Footer
 st.markdown("---")
-st.markdown("Made with ❤️ by Your Name")
